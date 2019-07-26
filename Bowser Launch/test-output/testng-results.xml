@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="61" started-at="2019-07-25T04:45:04Z" finished-at="2019-07-25T04:45:04Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="61" started-at="2019-07-25T04:45:04Z" finished-at="2019-07-25T04:45:04Z">
+      <class name="browser.CreateProject">
+        <test-method status="PASS" signature="createcustomerTest()[pri:1, instance:browser.CreateProject@5cc7c2a6]" name="createcustomerTest" duration-ms="13" started-at="2019-07-25T10:15:04Z" finished-at="2019-07-25T10:15:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createcustomerTest -->
+        <test-method status="PASS" signature="modifycustoerTest()[pri:2, instance:browser.CreateProject@5cc7c2a6]" name="modifycustoerTest" duration-ms="2" started-at="2019-07-25T10:15:04Z" finished-at="2019-07-25T10:15:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- modifycustoerTest -->
+        <test-method status="PASS" signature="deletecustomerTest()[pri:3, instance:browser.CreateProject@5cc7c2a6]" name="deletecustomerTest" duration-ms="2" started-at="2019-07-25T10:15:04Z" finished-at="2019-07-25T10:15:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deletecustomerTest -->
+      </class> <!-- browser.CreateProject -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
